@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d8a310b593089a0e14926977366f2894c96e8811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_187b3d689da39b31decf79b8b150e357e1852130/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e1a26aef575429141e1d86924166fa94c026584c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_1213394b82f0a8a3d037c051a4514a68058c6e5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_73623933bb58465909f596ee609723d93786bbc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_51011e33fdda597f2cda009e4a95c0766ee27324/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_0d42f2a69401f17f9ee23d76ac32fce4fc06f62d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_bdc3577b687015ef6d579f1aad5643c1edf38b57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_768ba7d2dedfc4fec18bcc7e126452d4ea25a174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff4504b58125f781ce2f0020e05bacf33fddb974">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ed70f7eb49b5462cc980fb37b8218bc26288019/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_eb34a3c6e55374769348cc9aa25cf457b61a5e30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_e39f0ec388faf08e44a8939b85efa23c075fa1fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c05fc41495320b9da39ebdb3ba86482907a6deab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_883c475f388b0babf8bf955f223584b4a8a154d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff6b89177a593389259657c361e29b9a67be34a7">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9bcf6bb0a8f336d216c16b1499f55e7ecd7eef6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_219521304c387526e00710f4bc1484c19ccad70d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_01f78cf2963cde08b2981b60dc7826754a05cacf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_06257e05dcd48bb10190b4eb950d2cc26d8afcb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_092442137c9f5f702433197067eaabac49467dc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mohit/AndroidStudioProjects/VerticalViewPager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_13ed59418b80f5731ae2f0c6e25220ad815806e1/classes.dex" />
+    </item>
+
+</items>
