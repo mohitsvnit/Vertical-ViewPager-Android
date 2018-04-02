@@ -61,8 +61,8 @@ public class VerticalViewPager extends ViewPager {
                 page.setAlpha(0);
             }else if(position <= 0){
                 page.setAlpha(1);
-                page.setTranslationX(page.getWidth()* -position);
-                page.setTranslationY(page.getHeight()*position);
+                page.setTranslationX(page.getWidth() * -position);
+                page.setTranslationY(page.getHeight() * position);
                 page.setScaleX(1);
                 page.setScaleY(1);
             }else if(position <= 1){
