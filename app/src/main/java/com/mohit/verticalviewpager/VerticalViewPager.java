@@ -32,8 +32,9 @@ public class VerticalViewPager extends ViewPager {
         float x = getWidth();
         float y = getHeight();
 
-        float newX = (event.getY()/y)*x;
-        float newY = (event.getX()/x)*y;
+        float newX = (event.getY()/y)*y;
+        float newY = (event.getX()/x)*x;
+
         event.setLocation(newX,newY);
         return event;
     }
