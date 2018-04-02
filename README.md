@@ -20,5 +20,6 @@ Add following code into your layout xml file
  `
 VerticalViewPager mViewPager = (VerticalViewPager) findViewById(R.id.viewPager);
  `
+
 Now viewpager will provide you above effect with all the functionality of normal viewpager.
 
