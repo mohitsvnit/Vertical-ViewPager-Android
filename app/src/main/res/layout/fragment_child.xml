@@ -5,7 +5,7 @@
     android:background="#8c8a8c"
     android:id="@+id/fgChildId"
 
-    tools:context="com.mohit.verticalviewpager.ChildFragment">
+    tools:context="com.mohit.sample_app_verticalviewpager.ChildFragment">
 
     <RelativeLayout
         android:layout_width="match_parent"
