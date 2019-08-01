@@ -2,10 +2,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.mohit.verticalviewpager.ContentFragment">
+    tools:context="com.mohit.sample_app_verticalviewpager.ContentFragment">
 
 
-    <com.mohit.verticalviewpager.HorizontalViewPager
+    <com.mohit.sample_app_verticalviewpager.HorizontalViewPager
         android:layout_width="match_parent"
         android:background="#909489"
         android:layout_height="match_parent"
