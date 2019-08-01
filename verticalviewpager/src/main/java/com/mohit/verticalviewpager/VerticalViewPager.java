@@ -1,6 +1,7 @@
 package com.mohit.verticalviewpager;
 
 import android.content.Context;
+
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.ViewPager;
 import android.util.AttributeSet;
