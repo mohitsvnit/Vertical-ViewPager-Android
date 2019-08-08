@@ -3,7 +3,8 @@ package com.mohit.sample_app_verticalviewpager;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.mohit.verticalviewpager.VerticalViewPager;
+import com.mohitdev.verticalviewpager.VerticalViewPager;
+
 
 public class MainActivity extends AppCompatActivity {
 

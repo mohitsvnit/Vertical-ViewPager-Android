@@ -32,7 +32,7 @@ dependencies {
 
     //implementation project(":verticalviewpager")
 
-    implementation 'com.mohitdev:verticalviewpager:0.0.1'
+    implementation 'com.mohitdev:verticalviewpager:0.0.2'
 
     testImplementation 'junit:junit:4.12'
 }

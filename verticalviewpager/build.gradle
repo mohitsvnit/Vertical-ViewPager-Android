@@ -15,8 +15,8 @@ buildscript {
 }
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.0"
+    compileSdkVersion compileAndTargetSdk
+    buildToolsVersion buildVersion
 
 
     defaultConfig {
@@ -61,7 +61,7 @@ ext {
     siteUrl = 'https://github.com/mohitsvnit/Vertical-ViewPager-Horizontal-ViewPager-Android'
     gitUrl = 'https://github.com/mohitsvnit/Vertical-ViewPager-Horizontal-ViewPager-Android.git'
 
-    libraryVersion = '0.0.1'
+    libraryVersion = '0.0.2'
 
     developerId = 'mohitdev'
     developerName = 'Mohit Sharma'
