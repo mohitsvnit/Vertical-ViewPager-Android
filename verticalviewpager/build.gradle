@@ -52,7 +52,7 @@ ext {
     bintrayRepo = 'Android-Vertical-ViewPager-with-swipe-card-layout'
     bintrayName = 'verticalviewpager'
 
-    publishedGroupId = 'mohitdev'
+    publishedGroupId = 'com.mohitdev'
     libraryName = 'VerticalViewPager'
     artifact = 'verticalviewpager'
 
@@ -61,7 +61,7 @@ ext {
     siteUrl = 'https://github.com/mohitsvnit/Vertical-ViewPager-Horizontal-ViewPager-Android'
     gitUrl = 'https://github.com/mohitsvnit/Vertical-ViewPager-Horizontal-ViewPager-Android.git'
 
-    libraryVersion = '0.0.2'
+    libraryVersion = '0.0.1'
 
     developerId = 'mohitdev'
     developerName = 'Mohit Sharma'
