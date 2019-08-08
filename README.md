@@ -9,7 +9,7 @@ To use `VerticalViewPager`  <a href='https://bintray.com/mohitdev/Android-Vertic
 
 Add below line in your app gradle file
 
-`implementation 'com.mohitdev:verticalviewpager:0.0.1'`
+`implementation 'com.mohitdev:verticalviewpager:0.0.2'`
 
 Add following code into your layout xml file
 
