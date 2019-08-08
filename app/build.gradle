@@ -30,6 +30,9 @@ dependencies {
     implementation 'com.google.android.material:material:1.0.0'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
 
-    implementation project(":verticalviewpager")
+    //implementation project(":verticalviewpager")
+
+    implementation 'com.mohitdev:verticalviewpager:0.0.1'
+
     testImplementation 'junit:junit:4.12'
 }
